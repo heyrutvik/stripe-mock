@@ -2235,6 +2235,9 @@
       "last_payment_error": null,
       "livemode": false,
       "metadata": {
+        "order_id": "pay_oKIb82AehukmsQcs5YoZ",
+        "txn_id": "merchant_1665302449_pay_oKIb82AehukmsQcs5YoZ_1",
+        "txn_uuid": "c83e975e-6ec1-41f2-92ce-c8689b5cec69"
       },
       "next_action": null,
       "object": "payment_intent",
@@ -2252,7 +2255,7 @@
       "shipping": null,
       "statement_descriptor": null,
       "statement_descriptor_suffix": null,
-      "status": "requires_payment_method",
+      "status": "succeeded",
       "transfer_data": null,
       "transfer_group": null
     },
